@@ -147,3 +147,4 @@ img = io.imread('https://yoyoyo-yo.github.io/Gasyori100knock/dataset/images/imor
 ## License
 
 - The licenses of each algorithm and library are depend on each license.
+- I am not responsible.
