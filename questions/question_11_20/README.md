@@ -306,7 +306,7 @@ $ -->
 
 ```python
 # answer
-def filter_diff(img, mode='y'):
+def filter_diff(img, mode='x'):
     kernel = np.array([[0, 0, 0], [-1, 1, 0], [0, 0, 0]])
     if mode == 'y':
         kernel = np.array([[0, -1, 0], [0, 1, 0], [0, 0, 0]])
